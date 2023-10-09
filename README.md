@@ -1,2 +1,0 @@
-# prediction-earthquake
-EARTHQUAKE PREDICTION FOR USING PYTHON
